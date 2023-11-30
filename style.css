@@ -1,0 +1,254 @@
+body{
+    background-color:rgb(216, 243, 220);
+    /*color: rgba(3, 4, 94);*/
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    background-color: black;
+    display:flex;
+    align-items: center;
+    
+}
+.home{
+    display: inline;
+    padding:10px;
+    background-color: rgba(216, 243, 220);
+    color: whitesmoke;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.categories{
+    display: flex;
+    padding:10px;
+    background-color: rgba(216, 243, 220);
+    color: whitesmoke;
+    display: inline;
+}
+
+.blogs{
+    display: inline;
+    padding:10px;
+    background-color: rgba(216, 243, 220);
+    color: black;
+}
+
+.about{
+    display: inline;
+    padding:10px;
+    background-color: rgba(216, 243, 220);
+    color: whitesmoke;
+}
+.identity{
+    color:rgb(70, 4, 4);
+    font-size: 30px;
+    font-weight: 300px;
+    text-decoration: double;
+    text-transform: bold;
+}
+a{
+    margin-right: 150px;
+}
+
+.bigbox{
+    color: rgba(52, 78, 65);
+    text-decoration:none;
+    font-size: 30px;
+    size: 35px;
+    /*background-image: url(Screenshot_\(1284\)-transformed.png);*/
+    mask-repeat: no-repeat;
+    height: 500px;
+    width: 1000px;
+  
+}
+
+.userdetails{
+    background-image: url(Screenshot_\(1284\)-transformed.png);
+    background-size: contain;
+    font-size: 50px;
+    size: 30px;
+    background-color: none;
+    height: 250px;
+    width: 500px;
+    text-align: left;
+    margin-top: 5px;
+    padding: 3px;
+    margin-left: 17px;
+}
+
+.box1{
+    margin-top: 50px;
+    margin: 15px;
+    font-size: 20px;
+}
+.placeholder{
+    font-size: 40px;
+}
+
+.passcode{
+    margin: 15px;
+    font-size: 20px;
+}
+
+.submit{
+    margin: 15px;
+    color: black;
+    
+}
+
+
+
+.submit{
+    color:black;
+    font-size: 20px;
+}
+
+.signupbutton{
+    color: red;
+    size: 3px;
+}
+
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: auto;
+   
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.boxc1{
+    
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: bottom;
+    width: 200px;
+    border-color: black;
+    background-color: rgb(215, 178, 215);
+    height: 300px;
+}
+
+
+.boxc2{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: bottom;
+    width: 200px;
+    border-color: black;
+    background-color: rgb(237, 222, 91);
+    height: 300px;
+}
+
+
+.boxc3{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: bottom;
+    width: 200px;
+    border-color: black;
+    background-color: rgb(240, 172, 108);
+    height: 300px;
+}
+
+
+.boxc4{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: bottom;
+    width: 200px;
+    border-color: black;
+    background-color: rgb(108, 186, 223);
+    height: 300px;
+}
+
+
+.userinputs{
+    background-image: url();
+    color:rgb(8, 28, 21);
+}
+
+.shop1btn{
+    background-color: black;
+    color: white;
+    size: 4px;
+    text-align: bottom;
+
+
+}
+.introcontent{
+    background-color: rgb(128, 237, 153);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 80px;
+}
+
+.endbox{
+    background-color: black;
+    height: 300px;
+    width: 1200px;
+    color: white;
+    text-align: left;
+    margin-left: 4px;
+    font-weight: 60;
+    padding: 5px;
+    font-size: medium;
+    margin-top: 10px;
+}
+.mission{
+    background-color: rgb(128, 237, 153);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    text-align: right;
+    margin-left: 380px;
+    width: 800px;
+    border-color: black;
+}
+
+.quality{
+    background-color: rgb(128, 237, 153);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    text-align: right;
+    margin-left: 380px;
+    width: 800px;
+    border-color: black;
+}
+
+.wideproduct{
+    background-color: rgb(128, 237, 153);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 80px;
+}
+
+.experience{
+    background-color: rgb(128, 237, 153);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 80px;
+}
+
+.onlineshipping{
+    background-color: rgb(128, 237, 153);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    text-align: right;
+    margin-left: 380px;
+    width: 800px;
+    border-color: black;
+    
+}
