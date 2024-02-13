@@ -1,3 +1,4 @@
+<img width="1545" alt="image" src="https://github.com/Shashikumar-ezhilarasu/Website-HarvestHeaven/assets/152071778/5fa2ac6e-9bea-445b-8fe8-f9786665a2c2">
 
 
 Certainly! Here's a basic example of a README file for your grocery store website, Harvest Heaven, created using simple HTML and CSS:
