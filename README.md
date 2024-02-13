@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/Shashikumar-ezhilarasu/Website-HarvestHeaven/assets/152071778/9c8fbbb3-0419-4a12-8d05-ec82bdc9d5de)
+
 Certainly! Here's a basic example of a README file for your grocery store website, Harvest Heaven, created using simple HTML and CSS:
 
 ---
