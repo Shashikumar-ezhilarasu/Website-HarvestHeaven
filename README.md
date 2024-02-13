@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 Certainly! Here's a basic example of a README file for your grocery store website, Harvest Heaven, created using simple HTML and CSS:
 
 ---
