@@ -26,7 +26,7 @@ We welcome contributions to improve Harvest Heaven! If you have any suggestions 
 
 ## Authors
 
-- Shashikumar Ezhilarasu
+- Shashikumar Ezhilarasu 
 
 ## License
 
