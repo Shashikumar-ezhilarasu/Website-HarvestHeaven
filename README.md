@@ -6,7 +6,7 @@
 
 # Harvest Heaven - Grocery Store
 
-Welcome to Harvest Heaven, your one-stop destination for fresh, high-quality, and sustainably sourced groceries. This website is created using simple HTML and CSS to provide a seamless shopping experience for you and your family.
+Welcome to Harvest Heaven, your one-stop destination for fresh, high-quality, and sustainably sourced groceries. This website is created using simple HTML and CSS to provide a seamless shopping experience for you !!
 
 ## Features
 
